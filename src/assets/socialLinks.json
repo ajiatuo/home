@@ -21,7 +21,7 @@
     "name": "邮件",
     "icon": "/images/icon/邮件.png",
     "tip": "来封 Email ~",
-    "url": "ajiatuo@awaker.edu.kg"
+    "url": "mailto:ajiatuo@awaker.edu.kg"
   },
   {
     "name": "企业微信",
